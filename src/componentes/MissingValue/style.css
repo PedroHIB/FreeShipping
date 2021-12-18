@@ -1,0 +1,17 @@
+.missingValue {
+  font-family: "Play", sans-serif;
+  font-size: 15px;
+  text-decoration: none;
+  background-image: linear-gradient(90deg, #000b23, #000b23 98%);
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 0 2px;
+  transition: background-size 0.3s;
+  display: block;
+  padding-top: 5px;
+}
+
+.freeShipping-txt {
+  margin-left: 5px;
+  color: #21ac79;
+}
